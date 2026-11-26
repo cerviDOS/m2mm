@@ -1,6 +1,7 @@
 .cache
 .clangd
 build/
+sdkconfig
 
 # Lovely macOS
 **/.DS_Store
