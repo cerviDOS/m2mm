@@ -1,0 +1,7 @@
+.cache
+.clangd
+build/
+
+# Lovely macOS
+**/.DS_Store
+

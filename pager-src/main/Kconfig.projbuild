@@ -1,0 +1,13 @@
+menu "Wi-Fi Credentials"
+
+    config WIFI_SSID
+        string "SSID"
+        default "UNKNOWN"
+        help
+            Network name.
+
+    config WIFI_PASSWORD
+        string "Password"
+        default "UNKNOWN"
+
+endmenu
